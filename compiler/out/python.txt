@@ -1,0 +1,4 @@
+  File "tests/test12_fail.py", line 1
+    print print
+              ^
+SyntaxError: invalid syntax
